@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Jos Mendoza_fas fa-sign-out-alt</name>
+   <tag></tag>
+   <elementGuidId>9c3f83b4-0aeb-45ad-983a-fa2d879a6206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='main-navbar']/div/div[3]/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-sign-out-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>54186590-0b4c-4264-825b-a131a911ef96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-sign-out-alt</value>
+      <webElementGuid>2e515024-bb31-4eaa-8c52-d150af48560c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-navbar&quot;)/div[@class=&quot;desk-navbar&quot;]/div[@class=&quot;actions-container&quot;]/div[@class=&quot;logout d-none d-xl-block&quot;]/a[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fas fa-sign-out-alt&quot;]</value>
+      <webElementGuid>77dda00b-4c81-4cec-9199-4d50a4e6b936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='main-navbar']/div/div[3]/div[3]/a/i</value>
+      <webElementGuid>4154f3f2-2962-48e2-b8e4-37ae0e035f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/i</value>
+      <webElementGuid>c80ff6d1-084d-48d3-8e35-c0efdac6494a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

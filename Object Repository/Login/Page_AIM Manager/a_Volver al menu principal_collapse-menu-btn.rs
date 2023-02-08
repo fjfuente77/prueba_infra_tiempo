@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Volver al menu principal_collapse-menu-btn</name>
+   <tag></tag>
+   <elementGuidId>3f67a2f1-5ef1-4658-8ab9-c610aceb6f45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='accordion']/div[2]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.col-sm-3.col-md-2.hidden-xl-down.bg-faded.sidebar.sidebar-open.sidebar-closed.enableHoverClass > #accordion > div.collapse-menu > a.collapse-menu-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdbccc32-c5f8-4ef9-a5bb-2cca0bdba658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-menu-btn</value>
+      <webElementGuid>4aa5eceb-ca46-4234-b7ee-36de18fa5c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aim-container&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-none d-xl-block sidebar-container&quot;]/app-sidebar[1]/nav[@class=&quot;col-sm-3 col-md-2 hidden-xl-down bg-faded sidebar sidebar-open sidebar-closed enableHoverClass&quot;]/div[@id=&quot;accordion&quot;]/div[@class=&quot;collapse-menu&quot;]/a[@class=&quot;collapse-menu-btn&quot;]</value>
+      <webElementGuid>ec72a523-e8c8-4df5-b4ea-ac4a53164e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='accordion']/div[2]/a)[2]</value>
+      <webElementGuid>51c5aec1-6c18-4723-9789-64ad8f8673a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volver al menu principal'])[2]/following::a[1]</value>
+      <webElementGuid>a25f4ecd-4576-42a8-b123-17de30d08279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administración AIM'])[2]/following::a[1]</value>
+      <webElementGuid>cc926d15-6fb1-460d-be24-0514d6fbca92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operaciones'])[4]/preceding::a[1]</value>
+      <webElementGuid>22c74b9b-d183-41e7-9794-be36e9f7989d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grandes Superficies'])[2]/preceding::a[2]</value>
+      <webElementGuid>fbc06fdd-e80c-4507-9896-2e56f62a424c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/app-sidebar/nav/div/div[2]/a</value>
+      <webElementGuid>6961a044-e676-49d4-9dd0-95a08e1dd5c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
