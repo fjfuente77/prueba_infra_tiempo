@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-  schedule:
-  - cron: "0 8-18/2 * * *"
 
 jobs:
   build:
