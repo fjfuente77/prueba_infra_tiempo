@@ -1,0 +1,20 @@
+name: Run Tests
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  schedule:
+  - cron: "0 8-18/2 * * *"
+
+jobs:
+  build:
+    runs-on: windows-2022
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Katalon Studio Github Action
+      uses: katalon-studio/katalon-studio-github-action@v2
+      with:
+          version: '8.5.5'
+          projectPath: '${{ github.workspace }}'
+          args: '-browserType="Chrome" -noSplash -retry=0 -testSuitePath="Test Suites/Login test suite" -apiKey= ${{ secrets.TOKEN }} --config -webui.autoUpdateDrivers=true'
